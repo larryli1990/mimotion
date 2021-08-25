@@ -317,6 +317,7 @@ def get_access_token():
 
 
 def run(msg):
+    return 
     if position:
         data = {
             "touser": touser,
